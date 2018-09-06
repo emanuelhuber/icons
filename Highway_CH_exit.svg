@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="8.7969608mm"
+   height="5.5597329mm"
+   viewBox="0 0 8.7969608 5.5597329"
+   version="1.1"
+   id="svg9436"
+   inkscape:version="0.92.3 (unknown)"
+   sodipodi:docname="Highway_CH_exit.svg">
+  <defs
+     id="defs9430" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="7.0084251"
+     inkscape:cy="-32.666729"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata9433">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-29.619377,-50.803469)">
+    <rect
+       style="display:inline;opacity:1;vector-effect:none;fill:#fefefe;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.32067502;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7715-8"
+       width="8.4762859"
+       height="5.239058"
+       x="29.779715"
+       y="50.963806"
+       ry="0.47977772" />
+    <path
+       style="display:inline;fill:#262219;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.02733854px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 30.543196,55.17277 c 0.01933,0.0048 1.275863,0.0145 1.275863,0.0145 l 0.115988,-3.552123 h -0.260972 z"
+       id="path7703-2"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;fill:#262219;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.02733854px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 32.157356,55.17277 c 0,0 -0.15465,-3.547285 -0.135318,-3.537621 0.01933,0.0097 0.251306,0 0.251306,0 l 0.526777,1.551333 c 0.226701,-0.213511 0.442107,-0.430428 0.894071,-0.575104 l -0.37696,-0.338298 c -0.01439,-0.02775 -0.0096,-0.05764 0.03383,-0.09182 h 1.295195 c 0.06593,0.0029 0.06076,0.03333 0.05799,0.06283 0,0 -0.508153,1.219401 -0.517111,1.2372 -0.02796,0.05555 -0.105347,0.01734 -0.101489,-0.0097 0,0 -0.159484,-0.57994 -0.183648,-0.584771 -0.918392,0.281961 -0.804911,1.177828 -0.710423,1.565831 l 0.24164,0.710425 z"
+       id="path7705-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccsccccc" />
+    <text
+       id="text7713-4"
+       y="55.187271"
+       x="36.347771"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.56428337px;line-height:4.56428337px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28526771px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.28526771px"
+         y="55.187271"
+         x="36.347771"
+         id="tspan7711-0"
+         sodipodi:role="line">4</tspan></text>
+  </g>
+</svg>
