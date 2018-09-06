@@ -14,8 +14,11 @@
    viewBox="0 0 3.0126216 3.0126216"
    version="1.1"
    id="svg4755"
-   inkscape:version="0.92.0 unknown"
-   sodipodi:docname="earth.svg">
+   inkscape:version="0.92.3 (unknown)"
+   sodipodi:docname="earth.svg"
+   inkscape:export-filename="/media/huber/Elements/UNIBAS/templates/icons_svg/icons/earth_24x24.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200">
   <defs
      id="defs4749" />
   <sodipodi:namedview
@@ -26,7 +29,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6"
-     inkscape:cx="8.8233926"
+     inkscape:cx="-23.855179"
      inkscape:cy="-5.2779655"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -48,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
